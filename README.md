@@ -17,40 +17,21 @@
 
 
 ### Glad to see you here!  
-I’m a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
-
-I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and PWAs.  
-  
+Hello! I'm Thais Intxaurtieta, a versatile full-stack developer currently leveling up my skills in a full-stack development bootcamp. With a strong background in marketing and team leadership, I bring both creativity and strategic thinking to my development work. Here, you’ll find my journey through software development, the technologies I love, and the projects I'm proud of.
 
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
+## About Me
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-  
+With experience in both technical and leadership roles, I specialize in creating scalable, user-friendly applications. My focus is on building solutions that streamline experiences and drive results.
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
+## Skills and Tools
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I keep night shift swithed on at all times   
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
-
-<br/>  
-
+- **Languages**: JavaScript, PHP, HTML5, CSS3
+- **Frameworks/Platforms**: Bootstrap, WordPress
+- **Tools**: Git, Linux, XAMPP, Photoshop, Figma, After Effects
+- **Databases**: MySQL
 
 ## Languages and Tools  
 <div align="center">  
@@ -72,31 +53,36 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 <br/>  
 
+## Professional Background
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+- **Marketing and Leadership**: My early career in marketing and team leadership shaped my ability to work creatively and strategically.
+- **Problem-Solver**: I'm resolutive, enthusiastic, and always approach challenges with an innovative mindset.
 
-<img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+## Current Projects
 
-</td><td valign="top" width="50%">
+- **Full-Stack Bootcamp**: Currently participating in an immersive full-stack bootcamp, where I'm enhancing my skills in full-stack development and modern technologies.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="left" style="width: 100%" />
+## Learning Goals
 
-</td></tr></table>  
+- I’m focused on building a strong foundation in Java and Python, aiming to broaden my expertise in versatile programming languages and backend development.
+
+## Fun Facts
+
+- I’m a big fan of horror movies—always up for a good scare!
+- I thrive in team environments and enjoy sharing ideas.
+
+
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWMzcXpxendlNW1jZW91dXF6bjYyMzNnMGxwMHFsZzdjYnphbXY4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lwnVQjawHHwWFbJZuI/giphy.gif" width="200"/>
+</div>
+
 
 <br/>  
 
-  
+## Contact
 
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
-  
-
-<br/>  
-
+- [LinkedIn](#)
+- [Instagram](#)
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

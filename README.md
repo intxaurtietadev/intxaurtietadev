@@ -79,10 +79,3 @@ With experience in both technical and leadership roles, I specialize in creating
 
 <br/>  
 
-## Contact
-
-- [LinkedIn](#)
-- [Instagram](#)
-
-<br />
-

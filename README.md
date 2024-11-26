@@ -76,6 +76,8 @@ With experience in both technical and leadership roles, I specialize in creating
 
 ###
 
+###
+
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWMzcXpxendlNW1jZW91dXF6bjYyMzNnMGxwMHFsZzdjYnphbXY4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lwnVQjawHHwWFbJZuI/giphy.gif" width="200"/>
 </div>

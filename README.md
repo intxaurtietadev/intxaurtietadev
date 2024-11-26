@@ -70,9 +70,6 @@ With experience in both technical and leadership roles, I specialize in creating
 
 - I’m a big fan of horror movies—always up for a good scare!
 - I thrive in team environments and enjoy sharing ideas.
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=intxaurtietadev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
 ###
 

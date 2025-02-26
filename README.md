@@ -17,7 +17,7 @@
 
 
 ### Glad to see you here!  
-Hello! I'm Thais Intxaurtieta, a versatile full-stack developer currently leveling up my skills in a full-stack development bootcamp. With a strong background in marketing and team leadership, I bring both creativity and strategic thinking to my development work. Here, you’ll find my journey through software development, the technologies I love, and the projects I'm proud of.
+Hello! I'm Thais Intxaurtieta, a versatile developer currently leveling up my skills in a full-stack development bootcamp. With a strong background in marketing and team leadership, I bring both creativity and strategic thinking to my development work. Here, you’ll find my journey through software development, the technologies I love, and the projects I'm proud of.
 
 <br/>  
 

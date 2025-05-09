@@ -25,10 +25,10 @@ Hey! I'm Thais, a creative and passionate developer blending technology with sto
 
 ## 🚀 Tech Stack
 
-- **Languages:** JavaScript, PHP, HTML5, CSS3
+- **Languages:** JavaScript, Python, PHP, HTML5, CSS3
 - **Frameworks & Platforms:** Vue.js, React, WordPress
 - **Tools:** Git, Linux, XAMPP, Photoshop, Figma, After Effects
-- **Databases:** MySQL
+- **Databases:** MySQL, MongoDB
 
 ## 🔧 Tech I Use  
 <div align="center">  
@@ -51,7 +51,7 @@ Hey! I'm Thais, a creative and passionate developer blending technology with sto
 
 ## 🌱 Currently Building
 
-- **Dreambound** ✨ A dream interpretation web app inspired by Jungian psychology (built with Vue 3).
+- **Dreambound** ✨ An AI dream interpretation web app inspired by Jungian psychology (built with Vue 3).
 - **Full-Stack Projects** 🏗️ Constantly experimenting and learning with modern tech.
 
 ## 🎯 Learning & Exploring
